@@ -1,4 +1,4 @@
 # m2irc.git
-Automatically generated README.md
+Monkey2 IRC module
 
-Latest releases @ http://hezkore.com/release
+![](http://hezkore.com/captures/Test1_979x512_u1517248261.png)
