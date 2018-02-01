@@ -24,7 +24,7 @@ End
 ' For more information on "messages" visit:
 ' https://tools.ietf.org/html/rfc2812#section-2.3
 Function OnIRCEvent( event:IRCEvent )
-	Local str:="IRCEvent( "
+	Local str:="Our-IRC-Event( "
 	
 	str+=event.Raw+"~n"
 	If event.Locally Then str+="Local: "+event.Locally+"~n"

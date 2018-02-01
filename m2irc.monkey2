@@ -500,7 +500,7 @@ Class IRCEvent
 	End
 	
 	Operator To:String()
-		Local str:="IRCEvent( "
+		Local str:="Event( "
 		
 		str+=Raw+"~n"
 		If Locally Then str+="Local: "+Locally+"~n"

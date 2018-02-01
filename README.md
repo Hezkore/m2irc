@@ -1,4 +1,4 @@
 # m2irc.git
 Monkey2 IRC module
 
-![](http://hezkore.com/captures/Test1_979x512_u1517248261.png)
+![](https://github.com/Hezkore/m2irc/blob/master/tests/demo.png)
